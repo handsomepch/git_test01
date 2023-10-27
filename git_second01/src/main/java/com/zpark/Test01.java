@@ -5,6 +5,8 @@ public class Test01 {
         System.out.println("hello world");
         System.out.println("hello nice");
         System.out.println("hello boy");
+        System.out.println("改变世界，改变自己");
+        System.out.println("hot-fix");
 
     }
 }
