@@ -13,5 +13,7 @@ public class Test02 {
 
      System.out.println("很高兴认识你，希望有机会再见");
          System.out.println("不努力，一切与我无关，我努力，至少还有一丝丝希望！");
+        System.out.println("这git真好玩");
+        System.out.println("越学越喜欢");
     }
 }
