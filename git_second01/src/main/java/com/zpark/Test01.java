@@ -9,6 +9,8 @@ public class Test01 {
         System.out.println("hello world4");
         System.out.println("hello nice");
         System.out.println("hello boy");
+        System.out.println("改变世界，改变自己");
+        System.out.println("hot-fix");
 
         System.out.println("天行健，君子以自强不息");
         System.out.println("master");
