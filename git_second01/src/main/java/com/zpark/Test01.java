@@ -10,6 +10,7 @@ public class Test01 {
         Scanner sc=new Scanner(System.in);
         String name = sc.next();
         System.out.println(name);
-
+         System.out.println("good  night  handsome boy !");
+         System.out.println("thanks !");
     }
 }
